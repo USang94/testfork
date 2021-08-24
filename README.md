@@ -1,2 +1,3 @@
 # testfork
 test
+testsetset
