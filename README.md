@@ -1,3 +1,2 @@
 # testfork
-test
-testsetset
+hello fork 
